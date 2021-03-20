@@ -1,12 +1,11 @@
 This is file A created by Jim.
 
 more stuff added by jim.
-<<<<<<< HEAD
+
 F4 work.
-=======
 
 
 
 
 F5 work in file A.
->>>>>>> F5
+
