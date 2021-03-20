@@ -1,3 +1,5 @@
 Adding a new feature to the code.
 
 more work on feature 1.
+
+completed feature 1.
